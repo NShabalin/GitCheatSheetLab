@@ -1,6 +1,9 @@
 .header {
     justify-content: center;
     text-align:center;
+	font-size: 24px;
+	color: blue;
+	background-color: purple;
 }
 ol li {
     list-style-position: inside;
